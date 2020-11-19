@@ -12,6 +12,7 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [Slides](https://slides.com/moonhighway/graphql-apollo/)
 - [GraphQL Spec](https://spec.graphql.org)
 - [Pet Library Playground](https://pet-library.moonhighway.com)
+- [Vote Playground](http://vote.moonhighway.com)
 
 ## Apollo Server
 
