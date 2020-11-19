@@ -16,7 +16,7 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 ## Apollo Server
 
 - [Exercise Start Files](https://github.com/graphqlworkshop/snowtooth-api): Want to download and run the project with npm? Pick this option!
-- [Exercise Start Sandbox](): Want to use the code in the browser? Choose this option!
+- [Exercise Start Sandbox](https://codesandbox.io/s/lucid-gareth-xdrc9): Want to use the code in the browser? Choose this option!
 - [Exercise Complete](https://github.com/graphqlworkshop/snowtooth-api/tree/complete): Jump to the finished product here.
 
 ## Apollo Client
@@ -38,8 +38,8 @@ curl -X POST \
 ### React & Apollo
 
 - [Snowtooth UI - Code Sandbox](https://codesandbox.io/s/tender-cartwright-yxf0e)
-- [Snowtooth UI Start Files](https://github.com/graphqlworkshop/snowtooth-ui)
-- [Snowtooth Finished](https://github.com/graphqlworkshop/snowtooth-ui/tree/complete)
+- [Snowtooth UI Start Files - GitHub](https://github.com/graphqlworkshop/snowtooth-ui):
+- [Snowtooth Finished - GitHub](https://github.com/graphqlworkshop/snowtooth-ui/tree/complete)
 
 ## Mid-Class Evaluation
 
