@@ -43,7 +43,7 @@ curl -X POST \
 
 ## Federation
 
-- [GraphQL at Scale](https://slides.com/moonhighway/scale-cube/)
+- [GraphQL at Scale Slides](https://slides.com/moonhighway/scale-cube/)
 - [Apollo Federation - Apollo Docs](https://www.apollographql.com/docs/apollo-server/federation/introduction/)
 - [egghead Playlist - Apollo Federation by Alex Banks](https://egghead.io/playlists/getting-started-with-apollo-federation-60ad0165)
 - [Apollo Federation Blog](https://blog.apollographql.com/apollo-federation-f260cf525d21)
