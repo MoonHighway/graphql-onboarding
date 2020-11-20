@@ -20,6 +20,10 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [Exercise Start Sandbox](https://codesandbox.io/s/lucid-gareth-xdrc9): Want to use the code in the browser? Choose this option!
 - [Exercise Complete](https://github.com/graphqlworkshop/snowtooth-api/tree/complete): Jump to the finished product here.
 
+## Mid-Class Evaluation
+
+- [Anonymous Evaluation](https://forms.gle/Pt9ycq3keKUiABxz7)
+
 ## Apollo Client
 
 ### Simple Requests
@@ -35,16 +39,7 @@ curl -X POST \
 
 - [Fetch Sample](https://codesandbox.io/s/n3jro0o4n0)
 - [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
-
-### React & Apollo
-
-- [Snowtooth UI - Code Sandbox](https://codesandbox.io/s/tender-cartwright-yxf0e)
-- [Snowtooth UI Start Files - GitHub](https://github.com/graphqlworkshop/snowtooth-ui):
-- [Snowtooth Finished - GitHub](https://github.com/graphqlworkshop/snowtooth-ui/tree/complete)
-
-## Mid-Class Evaluation
-
-- [Anonymous Evaluation](https://forms.gle/Pt9ycq3keKUiABxz7)
+- [Snowtooth Finished - GitHub](https://github.com/graphqlworkshop/snowtooth-ui/tree/complete): If you want to see the finished project, you can find it here.
 
 ## Federation
 
@@ -53,3 +48,7 @@ curl -X POST \
 - [egghead Playlist - Apollo Federation by Alex Banks](https://egghead.io/playlists/getting-started-with-apollo-federation-60ad0165)
 - [Apollo Federation Blog](https://blog.apollographql.com/apollo-federation-f260cf525d21)
 - [Managed Federation Blog](https://blog.apollographql.com/announcing-managed-federation-265c9f0bc88e)
+
+## Apollo Studio
+
+- [Studio](https://studio.apollographql.com)
